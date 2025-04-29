@@ -25,7 +25,6 @@ resource "aws_route" "public_subnet_1_route" {
 
 
 
-
 # Security Group
 
 resource "aws_security_group" "frontend_to_backend_sg" {
